@@ -229,4 +229,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 👨‍💻 Autor
 
-Desarrollado para análisis estructural con OpenSees. 
+Desarrollado para análisis estructural con OpenSees.
